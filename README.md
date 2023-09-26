@@ -1,2 +1,2 @@
 # MobileGrazieli
-Rep destinado à aplicações Mobile
+Rep destinado ao CRUD básico de Mobile
